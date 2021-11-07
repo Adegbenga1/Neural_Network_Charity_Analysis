@@ -33,4 +33,6 @@ model that predicted if an Alphabet Soup–funded organization will be successfu
  Knowneldge of Neural network was used to manipulate the data by Compiling, Training, and Evaluating the Model
  3 neurons,  4 layers, and 2types of  activation functions "relu" and "sigmoid" were selected for the neural
  network model in other to increase the accuracy
+ 
+ # Summary
 
