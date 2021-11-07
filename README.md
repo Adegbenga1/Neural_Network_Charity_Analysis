@@ -28,6 +28,9 @@ model that predicted if an Alphabet Soup–funded organization will be successfu
 
 ![image](https://user-images.githubusercontent.com/70987568/140660546-872f1fd4-2e7a-4a5a-bc3c-a42e0bb8caff.png)
 
+Accuracy = 72.8 % and Loss= 55.5% resulting from  2 neurons,  3 layers, and 2 types of  activation functions "relu" and "sigmoid"
+selected for the neural network model.
+
 # 3. Optimization
 
  Knowneldge of Neural network was used to manipulate the data by Compiling, Training, and Evaluating the Model
