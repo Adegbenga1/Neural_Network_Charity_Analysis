@@ -8,7 +8,8 @@ by Alphabet Soup.Technical analysis that involved ; (1) Preprocessing Data for a
 and (3) Optimized model were used for the Neural network Analysis.
 
 # Results 
- 1. Knowledge of Pandas and the Scikit-Learn’s StandardScaler were used to preprocess the dataset
+# 1. 
+Knowledge of Pandas and the Scikit-Learn’s StandardScaler were used to preprocess the dataset
 
 ![image](https://user-images.githubusercontent.com/70987568/140660385-153e0e9f-7b29-4686-8027-d706d1b22e3c.png)
 
