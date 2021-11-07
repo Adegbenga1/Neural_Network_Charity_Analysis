@@ -37,5 +37,9 @@ selected for the neural network model.
  3 neurons,  4 layers, and 2types of  activation functions "relu" and "sigmoid" were selected for the neural
  network model in other to increase the accuracy
  
+ Model accuracy = Loss: 0.4432152807712555, Accuracy: 0.7897375822067261, for optimized model with an increase in hidden
+ layer and increase in variable with additions of "NAME" columns
+ 
  # Summary
-
+ 79% aaccuracy and 44.3% loss were achieved with Tensor flow neural network model 
+ Comparative analysis to other models such as logisticesRegression , RandomForestClassifier and SVM showed 47%, 77% and 
