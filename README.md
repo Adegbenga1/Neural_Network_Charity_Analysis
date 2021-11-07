@@ -27,6 +27,8 @@ and (3) Optimized model were used for the Neural network Analysis.
 ![image](https://user-images.githubusercontent.com/70987568/140660546-872f1fd4-2e7a-4a5a-bc3c-a42e0bb8caff.png)
 
 3. Optimization
-    Knowneldge of Neural network was used to manipulate the data by Compiling, Training, and Evaluating the Model
-    3 neurons,  4 layers, and 2types of  activation functions "relu" and "sigmoid" were selected for the neural network model in other to increase the accuracy
+
+ Knowneldge of Neural network was used to manipulate the data by Compiling, Training, and Evaluating the Model
+ 3 neurons,  4 layers, and 2types of  activation functions "relu" and "sigmoid" were selected for the neural
+ network model in other to increase the accuracy
 
