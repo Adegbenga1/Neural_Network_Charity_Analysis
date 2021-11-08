@@ -11,6 +11,14 @@ and (3) Optimized model were used for the Neural network Analysis.
 # 1. 
 Knowledge of Pandas and the Scikit-Learn’s StandardScaler were used to preprocess the dataset
 
+Data Preprocessing were achied with the folll
+1 Target variable is y = Clean_application_df["IS_SUCCESSFUL"]
+2. Features are       X = Clean_application_df.drop(["IS_SUCCESSFUL"],1)   
+3. Coulmns "EIN" and "NAME" were neither targets nor features, and removed from the input data Deliverable 1
+4. During Optimization Coulmn "EIN" wes neither targets nor features, and removed from 
+   the input data Deliverable 3 .The colums name was included in the features in other to increase the 
+   hidden layers from 2 to 3. 
+
 ![image](https://user-images.githubusercontent.com/70987568/140660385-153e0e9f-7b29-4686-8027-d706d1b22e3c.png)
 
 ![image](https://user-images.githubusercontent.com/70987568/140660393-6ad6e3e4-0640-45d5-8062-8b988422dab9.png)
